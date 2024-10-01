@@ -31,5 +31,5 @@
 
 <div>
     ![crazy](https://tenor.com/bObZ9.gif)
-    ![science](https://media.giphy.com/media/qCj1NK1rxtnna/giphy.gif?cid=ecf05e472c00jizjtgrora24wsz6v0805yja8ota1lob98av&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+    ![science](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFvNWhsNXkwMXRzeXBreDM4OHJuMG4wMmtzZ2s5Y3o1Z2VoZGlvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qCj1NK1rxtnna/giphy.gif)
 </div>
