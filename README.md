@@ -1,6 +1,6 @@
 # Opa, seja bem vindo ao meu perfil. 
 
----
+___
 
 [![exploding_head_emoji](https://cdn3.emoji.gg/emojis/1396-exploding-head-emoji.gif)](https://emoji.gg/emoji/1396-exploding-head-emoji)
 # Sinta se à vontade e bem acolhido, eu sou o Bergson e vou falar um pouco sobre quem sou eu!
