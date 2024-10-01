@@ -26,9 +26,10 @@
     <img width="50" src="http://fucapi.edu.br/wp-content/uploads/2023/07/Fucapi_Logopquena_.png">
 </div>
 
-### Somente ?
+## Somente ?
 <p>Ando não só estudando pela faculdade Fucapi, eu tento aprender mais sobre o arquiteturas da internet e suas comunicações, linguagens que possuem reatividade e como posso melhorar como programador, procuro tentar o máximo que posso obter conhecimento na área da programação. Não so pelas linguagens como back-ends ou front-ends, mas tento entender todo o funcionamento de um software, seja seu planejamento até a pulicação de um software, e como posso deixar estes softwares ainda mais seguros e práticos. Tento entender sobre back-end, apis, tecnologia que possam ser visivelmente ainda mais prospéra de ser utilizada no futuro e como está a tecnologia no momento, resumidamente, eu sou apenas uma pessoa que gosta e possuo curiosidade no munddo tech, e que estas procuras feitas por mim, possam ser aplicadas e que sirvam de ajuda para o meu futuro.</p>
 
 <div>
+    <img src="https://tenor.com/bObZ9.gif">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFvNWhsNXkwMXRzeXBreDM4OHJuMG4wMmtzZ2s5Y3o1Z2VoZGlvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qCj1NK1rxtnna/giphy.gif">
 </div>
