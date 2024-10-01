@@ -33,3 +33,15 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQxNm1rNmE5ZGUwa3d6dWZsbHRvbTVmYnEzaHJkbnVscTh2OGQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuIxFwQo0RMT1tASlV/giphy.gif" width="400">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFvNWhsNXkwMXRzeXBreDM4OHJuMG4wMmtzZ2s5Y3o1Z2VoZGlvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qCj1NK1rxtnna/giphy.gif" width="400">
 </div>
+
+# Então, onde possuo conhecimento ?
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80"/>
+          
+          
+    
+</div>
