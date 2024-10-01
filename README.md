@@ -8,5 +8,5 @@
 ## Sou Técnico em Informática para Web, curso este realizado no IFAM
 
 <div>
-    <img style="width:20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </div>
