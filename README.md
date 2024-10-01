@@ -7,4 +7,4 @@
 
 ## Sou Técnico em Informática para Web, curso este realizado no IFAM
 
-- ![html5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+- ![html5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
