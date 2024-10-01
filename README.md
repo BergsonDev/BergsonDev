@@ -45,8 +45,8 @@
 </div>
 
 ## O que estou estudando ?
-<ul>
+<div>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="80"/></li>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="80"/></li>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80"/></li>
-</ul>
+</div>
