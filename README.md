@@ -18,7 +18,7 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-### Formado. E agora Bergson ?
+## Formado. E agora Bergson ?
 
 <p>Após todas as etapas, conhecimento procurado e estudo aplicado, consegui me formar pelo IFAM. No entanto procurei saber ainda mais sobre programação e conhecimento na área da informática. E fui apresentado ao curso de Engenharia de Software, onde neste curso eu aprofundo ainda mais sobre programação, conhecimento em softwares e ainda mais sobre como posso estudar a tecnologia e ver a sua arquitetura na área de software. E no ano de 2024, estou cursando o <strong>Bacharel</strong> pela <strong>Fundação Centro de Análise, Pesquisa e Inovação Tecnológica</strong> , a FUCAPI, e estou muito animado com o que o futuro pode me levar.</p>
 
