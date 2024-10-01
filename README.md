@@ -30,6 +30,6 @@
 <p>Ando não só estudando pela faculdade Fucapi, eu tento aprender mais sobre o arquiteturas da internet e suas comunicações, linguagens que possuem reatividade e como posso melhorar como programador, procuro tentar o máximo que posso obter conhecimento na área da programação. Não so pelas linguagens como back-ends ou front-ends, mas tento entender todo o funcionamento de um software, seja seu planejamento até a pulicação de um software, e como posso deixar estes softwares ainda mais seguros e práticos. Tento entender sobre back-end, apis, tecnologia que possam ser visivelmente ainda mais prospéra de ser utilizada no futuro e como está a tecnologia no momento, resumidamente, eu sou apenas uma pessoa que gosta e possuo curiosidade no munddo tech, e que estas procuras feitas por mim, possam ser aplicadas e que sirvam de ajuda para o meu futuro.</p>
 
 <div>
-    ![caraDoido](https://tenor.com/pt-BR/view/programming-gif-24316523)
-    <iframe src="https://giphy.com/embed/QC7UQbxq89MnL9r6AN" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/breaking-bad-aaron-paul-yeah-science-QC7UQbxq89MnL9r6AN">via GIPHY</a></p>
+    ![crazy](https://tenor.com/bObZ9.gif)
+    ![science](https://media.giphy.com/media/qCj1NK1rxtnna/giphy.gif?cid=ecf05e472c00jizjtgrora24wsz6v0805yja8ota1lob98av&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 </div>
